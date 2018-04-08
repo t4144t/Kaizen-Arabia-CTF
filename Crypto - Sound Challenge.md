@@ -23,7 +23,8 @@ It's telling us that this is a Hex hashing
 
 By converting the hex to Text we got : 
 ```
-steghide the password is peaches ```
+steghide the password is peaches 
+```
 
 BINGO, GoodBye
 
